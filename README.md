@@ -1,5 +1,5 @@
 # Hi, I'm Tariqul Islam 👋
-### Senior Laravel Developer · 6+ Years · Open Source Contributor · Remote-Ready
+### Senior Laravel Developer · 6+ Years · Remote-Ready
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tariqulislamrc-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tariqulislamrc)
 [![Email](https://img.shields.io/badge/Email-tariqulislamrc@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tariqulislamrc@gmail.com)
@@ -12,32 +12,26 @@
 
 I'm a Senior Laravel Developer with **6+ years of experience** building scalable PHP/Laravel REST APIs and Vue.js SPAs for enterprise clients across **North America and Europe**.
 
-I specialise in clean architecture, database optimisation, CI/CD automation, and Laravel package development. At Spondon IT, I grew from developer to Project Manager — and maintained a suite of **publicly released Composer packages** used by thousands of installs worldwide.
+I specialise in clean architecture, database optimisation, CI/CD automation, and Laravel package development. At Spondon IT, I grew from developer to Project Manager — delivering measurable results across 10+ enterprise projects.
 
-> 💼 **Note on commits:** Most of my day-to-day work lives in my company's private GitLab organisation (`gitlab.com/spondonit-packages`). This personal GitHub account reflects experiments and side projects — my professional output is better measured by the Packagist install counts below and my work history on LinkedIn.
+> 💼 **Note on commits:** My professional work lives in Spondon IT's private company repositories. This personal GitHub is used for experiments and learning projects. A better picture of my work is on [LinkedIn](https://linkedin.com/in/tariqulislamrc) and through the Composer packages I've built and maintained at [packagist.org/search/?query=spondonit](https://packagist.org/search/?query=spondonit).
 
 ---
 
-## 📦 Open Source — Composer Packages
+## 📦 Composer Package Development
 
-I authored and maintain the **`spondonit/*`** package ecosystem on Packagist — a suite of Laravel service provider packages powering the Infix SaaS platform and its add-ons.
+At Spondon IT, I designed and maintained the **`spondonit/*`** Composer package ecosystem — a set of Laravel service provider packages used internally across the company's suite of SaaS products (Infix School, Infix LMS, Infix AmazCart, and others).
 
-> 🔗 [packagist.org/search/?query=spondonit](https://packagist.org/search/?query=spondonit)
+These packages handle **license verification, application bootstrapping, and modular service integration** across multiple enterprise products. They are published on Packagist as part of the product distribution system — not as general-purpose open-source libraries.
 
-| Package | Description | Installs |
-|---|---|---|
-| [`spondonit/service`](https://packagist.org/packages/spondonit/service) | Core base service provider for the Spondonit application ecosystem | **19,600+** |
-| [`spondonit/school-service`](https://packagist.org/packages/spondonit/school-service) | Service provider for the Infix School application | **6,700+** |
-| [`spondonit/lms-service`](https://packagist.org/packages/spondonit/lms-service) | Service provider for Infix LMS — Learning Management System | **5,500+** |
-| [`spondonit/laravel-fcm-notification`](https://packagist.org/packages/spondonit/laravel-fcm-notification) | Firebase Cloud Messaging (FCM) notification channel for Laravel | **3,700+** |
-| [`spondonit/amazcart-service`](https://packagist.org/packages/spondonit/amazcart-service) | Service provider for Infix AmazCart e-commerce application | **2,700+** |
-| [`spondonit/rpclient`](https://packagist.org/packages/spondonit/rpclient) | RaudhahPay payment gateway wrapper for Laravel | **4,900+** |
-| [`spondonit/ws-service`](https://packagist.org/packages/spondonit/ws-service) | Service provider for Infix WhatsApp support integration | **55+** |
-| [`spondonit/idesk-service`](https://packagist.org/packages/spondonit/idesk-service) | Service provider for Infix iDesk application | Active |
-| [`spondonit/invoice`](https://packagist.org/packages/spondonit/invoice) | Business invoice implementation for Laravel | Active |
-| `spondonit/*` private packages | Internal packages for Infix Biz, HR, Payroll, and more | Private |
+**What this involved:**
+- Designing reusable Laravel service providers and facades
+- Managing versioned releases across multiple product lines simultaneously
+- Maintaining compatibility across Laravel 7 through Laravel 12
+- Building the FCM notification channel package (`spondonit/laravel-fcm-notification`) for push notification delivery across mobile clients
+- Integrating payment gateway abstractions (`spondonit/rpclient`) for the RaudhahPay gateway
 
-**Combined public installs: 40,000+** across the ecosystem.
+> 🔗 [View packages on Packagist](https://packagist.org/search/?query=spondonit)
 
 ---
 
@@ -92,8 +86,6 @@ I authored and maintain the **`spondonit/*`** package ecosystem on Packagist —
 
 ## 🧠 Laravel Ecosystem Expertise
 
-Things I work with daily inside the Laravel world:
-
 - **Eloquent ORM** — complex relationships, query optimisation, scopes
 - **Laravel Sanctum / Passport** — token-based API authentication for SPAs and mobile clients
 - **Queues & Jobs** — background processing, event-driven architecture
@@ -112,7 +104,7 @@ Freelance Web Developer                       Self-Employed   2020
 Web Developer                                 SATT IT         2018 – 2020
 ```
 
-**6+ years** · **10+ enterprise applications** · **40,000+ package installs** · **100+ code reviews** · **5+ concurrent projects managed**
+**6+ years** · **10+ enterprise applications** · **10+ Composer packages built & maintained** · **100+ code reviews** · **5+ concurrent projects managed**
 
 ---
 
@@ -122,7 +114,6 @@ I'm currently **open to Senior Laravel Developer opportunities** — remote or h
 
 - 📧 [tariqulislamrc@gmail.com](mailto:tariqulislamrc@gmail.com)
 - 💼 [linkedin.com/in/tariqulislamrc](https://linkedin.com/in/tariqulislamrc)
-- 📦 [packagist.org/search/?query=spondonit](https://packagist.org/search/?query=spondonit)
 - 📞 +880 1718 627 564
 
 ---
@@ -131,4 +122,4 @@ I'm currently **open to Senior Laravel Developer opportunities** — remote or h
   <img src="https://komarev.com/ghpvc/?username=tariqulislamrc&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center"><i>"Clean code, measurable results, 40,000+ package installs."</i></p>
+<p align="center"><i>"Clean code, measurable results, zero missed deadlines."</i></p>
